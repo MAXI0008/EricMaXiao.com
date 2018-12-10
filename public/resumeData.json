@@ -1,0 +1,164 @@
+{
+  "main": {
+    "name":"Eric Ma",
+    "occupation":"Computer Science Student",
+    "description":"Potential Junior Developer, Soccer Fan",
+    "image":"profilepic.jpg",
+    "bio":"Joined NTU for bridging course in Aug 2016, now majoring Computer Science(CS). On track to first class honor with outstanding academic performance. Interested in Web development and data science. A potential junior software engineer.",
+    "contactmessage":"",
+    "email": "ericmaxiao@gmail.com",
+    "phone": "+65 93797588",
+    "address":{
+      "street":"32 Nanyang Crescent",
+      "city":"Singapore",
+      "state":"Singapore",
+      "zip": "637658"
+    },
+    "website": "",
+    "---website": "http://www.timbakerdev.com",
+    "resumedownload":"",
+    "---resumedownload":"http://timbakerdev.com",
+    "---social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/john.bi.395",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"google-plus",
+        "url":"http://googleplus.com/tbakerx",
+        "className":"fa fa-google-plus"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/tbaker_x",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/tbakerx",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"skype",
+        "url":"http://skype.com",
+        "className":"fa fa-skype"
+      }
+    ],
+    "social":[
+      {
+        "name":"github",
+        "url":"https://github.com/MAXI0008",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"linkedin",
+        "url":"http://linkedin.com/in/eric-xiao-ma-80308915b",
+        "className":"fa fa-linkedin"
+      }
+    ]
+
+  },
+  "resume":{
+    "skillmessage":"A Passionate and Hard-working Junior Developer",
+    "education":[
+      {
+        "school":"Nanyang Technological University, Singapore(NTU)",
+        "degree":"Computer Science",
+        "graduated":"Aug 2017 - Jun 2021",
+        "description":"Full scholarship awarded by the Singapore Ministry of Education (MOE) to top 10% students from prestigious high schools in China. On track to the First Class Honor"
+      }
+    ],
+    "work":[
+      {
+        "company":"REIDAO",
+        "title":"Software Engineer Intern(Blockchian)",
+        "years":"May 2018 - Jul 2018",
+        "description":"Developed a property booking website with blockchain paying feature using JavaScript framework NuxtJS and Web3 module. \n Developed 4 backend API services under MVC architecture to achieve client-server connection."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Python",
+        "level":"50%"
+      },
+      {
+        "name":"Java",
+        "level":"40%"
+      },
+      {
+        "name":"C/C++",
+        "level":"40%"
+      },
+      {
+        "name":"Git",
+        "level":"40%"
+      },
+      {
+        "name":"JavaScript",
+        "level":"30%"
+      },
+      {
+        "name":"SQL",
+        "level":"30%"
+      },
+      {
+        "name":"Competitive Programming",
+        "level":"40%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"20%"
+      },
+      {
+        "name":"Data Science",
+        "level":"20%"
+      },
+      {
+        "name":"Ethereum Blockchian",
+        "level":"20%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"SCRAME Application",
+        "category":"Course Registration and Marking Entry Application written in Java",
+        "image":"scrame.jpg",
+        "url":"https://github.com/MAXI0008/CZ2002-SCRAME-Application"
+      },
+      {
+        "title":"Booking Website",
+        "category":"A property booking website developed using VueJs with ethereum blockchain paying feature",
+        "image":"crowd_villa.jpg",
+        "url":"https://demo.crowdvilla.io/"
+      },
+      {
+        "title":"Token Wallet",
+        "category":"A ERC20 token wallet with done during my internship",
+        "image":"token_wallet.jpg"
+      },
+      {
+        "title":"NTU Project Accelerator",
+        "category":"A Telegram chatbot that helps NTU students form project team",
+        "image":"ntu_project_accelerator.jpg",
+        "url":"https://github.com/MAXI0008/NTU-Project-Accelerator"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+    ]
+  }
+}
