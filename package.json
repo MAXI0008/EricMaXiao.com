@@ -15,7 +15,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "deploy-s3": "aws s3 --profile Eric sync ./build/ s3://ericmaxiao.com --region ap-southeast-1",
+    "cache-bust": "aws cloudfront --profile Eric create-invalidation --distribution-id E2IN4FJ5EKDJSV --paths /*"
   },
   "eslintConfig": {
     "extends": "react-app"
