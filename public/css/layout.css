@@ -299,13 +299,13 @@ ul#nav li.current a { color: #F06000; }
    position: relative;
   	margin-bottom: 60px;
   	background: #ccc;
-  	height: 42px;
+  	height: 25px;
   	border-radius: 3px;
 }
 .bars li em {
 	font: 15px 'opensans-bold', sans-serif;
    color: #313131;
-	text-transform: uppercase;
+	/* text-transform: uppercase; */
    letter-spacing: 2px;
 	font-weight: normal;
    position: relative;
@@ -315,13 +315,12 @@ ul#nav li.current a { color: #F06000; }
    position: absolute;
    left: 0;
    top: 0;
-
    margin: 0;
    padding-right: 24px;
   	background: #313131;
    display: inline-block;
-  	height: 42px;
-   line-height: 42px;
+  	height: 25px;
+   line-height: 25px;
    border-radius: 3px 0 0 3px;
 }
 /*
