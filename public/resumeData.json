@@ -6,7 +6,7 @@
     "image":"profilepic.jpg",
     "bio":"Joined NTU for bridging course in Aug 2016, now majoring Computer Science(CS). On track to first class honor with outstanding academic performance. Interested in Web development and data science. A potential junior software engineer.",
     "contactmessage":"",
-    "email": "ericmaxiao@gmail.com",
+    "email": "eric.m.990909@gmail.com",
     "phone": "+65 93797588",
     "address":{
       "street":"32 Nanyang Crescent",
@@ -76,7 +76,7 @@
         "school":"Nanyang Technological University, Singapore(NTU)",
         "degree":"Computer Science",
         "graduated":"Aug 2017 - Jun 2021",
-        "description":"Full scholarship awarded by the Singapore Ministry of Education (MOE) to top 10% students from prestigious high schools in China. On track to the First Class Honor"
+        "description":"On track to the first class honor. Full scholarship awarded by the Singapore Ministry of Education (MOE) to top students from prestigious high schools in China."
       }
     ],
     "work":[
@@ -84,7 +84,7 @@
         "company":"REIDAO",
         "title":"Software Engineer Intern(Blockchian)",
         "years":"May 2018 - Jul 2018",
-        "description":"Developed a property booking website with blockchain paying feature using JavaScript framework NuxtJS and Web3 module. \n Developed 4 backend API services under MVC architecture to achieve client-server connection."
+        "description":"Developed a property booking website with blockchain paying feature using JavaScript framework NuxtJS and Web3 module. Developed 4 backend API services under MVC architecture to achieve client-server connection."
       }
     ],
     "skills":[
@@ -97,6 +97,10 @@
         "level":"40%"
       },
       {
+        "name":"JavaScript",
+        "level":"40%"
+      },
+      {
         "name":"C/C++",
         "level":"40%"
       },
@@ -105,23 +109,19 @@
         "level":"40%"
       },
       {
-        "name":"JavaScript",
-        "level":"30%"
+        "name":"Competitive Programming",
+        "level":"40%"
       },
       {
         "name":"SQL",
         "level":"30%"
       },
       {
-        "name":"Competitive Programming",
-        "level":"40%"
+        "name":"Data Science",
+        "level":"25%"
       },
       {
         "name":"MongoDB",
-        "level":"20%"
-      },
-      {
-        "name":"Data Science",
         "level":"20%"
       },
       {
@@ -140,7 +140,7 @@
       },
       {
         "title":"Booking Website",
-        "category":"A property booking website developed using VueJs with ethereum blockchain paying feature",
+        "category":"A property booking website with ethereum blockchain paying feature",
         "image":"crowd_villa.jpg",
         "url":"https://demo.crowdvilla.io/"
       },
